@@ -1,0 +1,32 @@
+.login {
+    display: inline;
+    vertical-align: middle;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.formlogin {
+    font-weight: 600px;
+}
+
+.card {
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline;
+    vertical-align: middle;
+}
+
+.signup {
+    display: inline;
+    vertical-align: middle;
+    font-size: 13px;
+    margin-left: 15px;
+}
